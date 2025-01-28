@@ -63,12 +63,12 @@ fork to your machine using one of the commands below, depending on your OS.
 #### Clone kickstart.nvim
 > **NOTE**
 > If following the recommended step above (i.e., forking the repo), replace
-> `xavier-rognon` with `<your_github_username>` in the commands below
+> `Mambokara` with `<your_github_username>` in the commands below
 
 <details><summary> Linux and Mac </summary>
 
 ```sh
-git clone https://github.com/xavier-rognon/kickstart-modular.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/Mambokara/kickstart-modular.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 </details>
@@ -78,13 +78,13 @@ git clone https://github.com/xavier-rognon/kickstart-modular.nvim.git "${XDG_CON
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/xavier-rognon/kickstart-modular.nvim.git %userprofile%\AppData\Local\nvim\
+git clone https://github.com/Mambokara/kickstart-modular.nvim.git %userprofile%\AppData\Local\nvim\
 ```
 
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/xavier-rognon/kickstart-modular.nvim.git $env:USERPROFILE\AppData\Local\nvim\
+git clone https://github.com/Mambokara/kickstart-modular.nvim.git $env:USERPROFILE\AppData\Local\nvim\
 ```
 
 </details>
